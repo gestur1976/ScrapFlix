@@ -8,7 +8,7 @@ The Movie Sheet Scraper is a specialized tool designed to extract detailed infor
 ### Features
 - **Data Extraction**: Automatically scrapes detailed movie information from web pages.
 - **JSON Format**: Converts all extracted data into a well-organized JSON file for ease of use and integration with other applications.
-- **Copyrighted Synopsis Generation**: Utilizes an advanced Large Language Model (LLM) to create unique, copyright-protected synopses for each movie.
+- **"Copywrited" Synopsis Generation**: Utilizes an advanced Large Language Model (LLM) to create unique, copyright-protected synopses for each movie.
 
 ## Compatibility
 Currently, the Movie Sheet Scraper is compatible exclusively with [FilmAffinity](https://www.filmaffinity.com). This limitation is due to the specific structure and layout of FilmAffinity's website, which the scraper is tailored to navigate and extract data from. Future updates may include compatibility with other movie databases.
